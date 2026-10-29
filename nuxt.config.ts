@@ -72,6 +72,7 @@ export default defineNuxtConfig({
     families: [
       { name: 'Geist', weights: ['100 900'], global: true },
       { name: 'Geist Mono', weights: ['100 900'], global: true },
+      { name: 'Bricolage Grotesque', weights: ['400 800'], global: true },
     ],
   },
 

@@ -4,6 +4,12 @@
 @theme {
   --font-sans: "Geist", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "Geist Mono", ui-monospace, monospace;
+  --font-display: "Bricolage Grotesque", "Geist", ui-sans-serif, sans-serif;
+
+  --color-lagos-yellow: #f4c430;
+  --color-lagos-green: #0b6e4f;
+  --color-lagos-ink: #141210;
+  --color-lagos-cream: #f7f1e3;
 }
 
 :root {
